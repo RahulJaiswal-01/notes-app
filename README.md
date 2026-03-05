@@ -56,6 +56,7 @@ Copy code
 
 Example:
 http://172.16.2.40:32355
+<img width="1366" height="768" alt="noteapp_screenShot" src="https://github.com/user-attachments/assets/f016f771-232d-4d96-8860-64b996e1750e" />
 
 shell
 Copy code
